@@ -33,7 +33,7 @@ http://alexlenail.me/NN-SVG/index.html
 ### STEP 10:Display the graph.
 ## PROGRAM
 
-
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -170,7 +170,7 @@ y_truevalue.shape
 conf(y_truevalue,x_pred)
 
 print(report(y_truevalue,x_pred))
-
+```
 
 
 ## OUTPUT
